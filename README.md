@@ -81,14 +81,6 @@ El scraper incluye manejo robusto de errores para:
 - Errores de parseo
 - Problemas de escritura de archivos
 
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea tu rama de características (`git checkout -b feature/NuevaCaracteristica`)
-3. Commit tus cambios (`git commit -m 'Añadir nueva característica'`)
-4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
-5. Abre un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles
